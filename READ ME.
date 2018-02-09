@@ -6,10 +6,7 @@ Administrator:
 username:admin
 password:admin
                
-Student:
-******** 
-username: ifm
-password: ifm
+
 
 
 ***********************************************************************************************      
@@ -20,16 +17,7 @@ WHICH IS NEED TO BE AS THOSE SET ON YOUR MYSQL DATABASE.
 PHPMYADMIN FOR ADMINISTERING MYSQL AS PROVIDES A GRAPHICAL USERINTERFACES FOR ALL THOSE JOBS.
 
 3. IF THIS PROJECT HELPED YOU, YOU COULD LEAVE A MESSAGE AND KEEP APPRECIATING THE OPEN SOURCE SOCIETY.
-PERSONAL EMAIL: mbamila87tz@gmail.com
-OFFICE EMAIL: haruni@habari.co.tz
-MOBILE: +255712115007
-
-********
-NOTE: 
-*******
-I have done this project helping fellow certificates students who were having final project at their college when i was also a fourth year student at Institute Of Finance Management-IFM. This is very simple and easy to use project which need you just to import the database(poll.sql) and php files on your web server then ready to go.
-
-The project is an open source licenced, you can edit the codes, modify and distribute as you wish. Its a free project to show my contribution to the open source society.
+PERSONAL EMAIL: lokivarman5@gmail.com
 
 
 ********************************************* Thank you. ***************************************************************
