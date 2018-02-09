@@ -1,0 +1,118 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+background-image: url("/lo/images/logo.jpg")
+
+
+}
+
+#head{
+width:100%;
+height:120px;
+size:15px;
+color:yellow;
+
+}
+
+#head h4,td{
+text-shadow:1px 1px 1px #000;
+}
+
+#leftnavigation{
+
+width:110%;
+vertical-align:middle;
+height:25px;
+padding-top:25px;
+size:18px;
+font-family:Arial, Helvetica, sans-serif;
+color:blue;
+}
+
+#leftnavigation a {
+font-family:Geneva, italic, Helvetica, sans-serif;
+text-decoration:none;
+color:white;
+padding:15px;
+}
+#leftnavigation a:hover{
+	color:black;
+}
+
+#cover{
+width:100%;
+font-family:italic, Helvetica, sans-serif;
+font-style:italic;
+font-size:18px;
+color:#FFFFFF;
+}
+#content{
+;
+width:100%;
+padding:35px;
+font-family:Arial, Helvetica, sans-serif;
+color:black	;
+}
+
+#content h3, #content p{
+text-align:center;
+font-family:Arial, Helvetica, sans-serif;
+color:black;
+}
+#content a {
+text-decoration:none;
+color:#1e90ff;
+font-size:14px;
+}
+
+
+#footer{
+
+width:100%;
+height:10px;
+size:14px;
+}
+#login{
+        text-align: center;
+	vertical-align:middle;    
+	width: 250px;
+	margin-left:450px;
+	font-family:Arial, Helvetica, sans-serif;
+
+}
+.login{
+    vertical-align:middle;
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.login input[type=text]{
+    margin-left: 0px;
+    margin-bottom: 5px;
+font-family:Arial, Helvetica, sans-serif;
+
+}
+.login input[type=password]{
+    margin-left: 0px;
+font-family:Arial, Helvetica, sans-serif;
+
+}
+#login input[type=submit]{
+    margin-left: 200px;
+    font-size: 0.8em;
+
+}
+input{
+	padding:5px;
+font-family:Arial, Helvetica, sans-serif;
+
+	
+}
+fieldset{
+	border-radius:4px;
+font-family:Arial, Helvetica, sans-serif;
+
+}
+
+
